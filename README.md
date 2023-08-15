@@ -1,8 +1,7 @@
 # StrukturData_MultiLinkedList_M-N
 Contoh program sederhana implementasi Multi Linked List M to N menggunakan bahasa C++
 Deskripsi:
-Program multi-linked list yang memodelkan penulis dan buku. Seorang penulis dapat membuat lebih dari satu buku, dan satu buku dapat dibuat oleh satu atau lebih penulis. 
-Program mengimplementasikan daftar dan semua fitur yang tercantum di bawah ini:
+Program multi-linked list yang memodelkan penulis dan buku. Seorang penulis dapat membuat lebih dari satu buku, dan satu buku dapat dibuat oleh satu atau lebih penulis. Program mengimplementasikan daftar dan semua fitur yang tercantum di bawah ini:
 1)	Menambahkan penulis baru 
 2)	Menampilkan data penulis X 
 3)	Menghapus penulis tertentu 
